@@ -1,2 +1,2 @@
-# terraform-config-management-camp-
+# terraform-config-management-camp
 Example code for config management camp talk
